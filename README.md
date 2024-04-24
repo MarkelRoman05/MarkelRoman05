@@ -5,10 +5,10 @@
 
 <p align="center">
   <a href="https://twitter.com/MarkelRoman05" target="blank">
-    <img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="X de MarkelRoman05" height="28px" width="56px" />
+    <img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="X de MarkelRoman05" height="50px" width="56px" />
   </a>
 
-  <a href="https://youtube.com/" target="blank">
+  <!--<a href="https://youtube.com/" target="blank">
     <img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="X de MarkelRoman05" height="28px" width="56px" />
-  </a>
+  </a>-->
 </p>
