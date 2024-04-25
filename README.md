@@ -6,13 +6,13 @@
   <h3 align="center" style="font-family: 'Courier New', Courier, monospace;">Redes sociales</h3>
 </p>
 <p align="center">
-  <a href="https://twitter.com/MarkelRoman05" target="blank">
+  <a href="https://twitter.com/MarkelRoman05" target="_blank">
     <img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="X de MarkelRoman05" height="53px" width="56px" />
   </a>
-  <a href="https://www.youtube.com/@Markel05" target="blank">
+  <a href="https://www.youtube.com/@Markel05" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YouTube de MarkelRoman05" height="46px" width="63px" />
   </a>
-  <a href="https://www.twitch.tv/markelroman05" target="blank">
+  <a href="https://www.twitch.tv/markelroman05" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Twitch-icon-5.png" alt="Twitch de MarkelRoman05" height="49px" width="60px" />
   </a>
   <p align="center">
