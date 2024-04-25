@@ -12,7 +12,7 @@
   <a href="https://www.youtube.com/@Markel05" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YouTube de MarkelRoman05" height="46px" width="63px" />
   </a>
-  <a href="https://www.youtube.com/@Markel05" target="blank">
+  <a href="https://www.twitch.tv/markelroman05" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Twitch-icon-5.png" alt="Twitch de MarkelRoman05" height="49px" width="60px" />
   </a>
   <p align="center">
