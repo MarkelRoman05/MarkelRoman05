@@ -13,7 +13,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YouTube de MarkelRoman05" height="46px" width="63px" />
   </a>
   <a href="https://www.twitch.tv/markelroman05" target="_blank">
-    <img align="center" src="https://e7.pngegg.com/pngimages/779/7/png-clipart-twitch-streaming-media-logo-hello-summer-purple-violet.png" alt="Twitch de MarkelRoman05" height="49px" width="60px" />
+    <img align="center" src="https://w7.pngwing.com/pngs/447/905/png-transparent-twitch-logo-social-social-media-social-media-logos-icon.png" alt="Twitch de MarkelRoman05" height="49px" width="60px" />
   </a>
   <p align="center">
     <h3 align="center">Soy Markel y este es mi repositorio personal de GitHub, donde publico proyectos o pruebas.</h3>
