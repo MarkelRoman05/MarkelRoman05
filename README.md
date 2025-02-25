@@ -7,13 +7,13 @@
 </p>
 <p align="center">
   <a href="https://twitter.com/MarkelRoman05" target="_blank">
-    <img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="X de MarkelRoman05" height="53px" width="56px" />
+    <img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/042/148/611/small/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="X de MarkelRoman05" height="85px" width="90px" />
   </a>
   <a href="https://www.youtube.com/@Markel05" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YouTube de MarkelRoman05" height="46px" width="63px" />
+    <img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" alt="YouTube de MarkelRoman05" height="85px" width="90px" />
   </a>
   <a href="https://www.twitch.tv/markelroman05" target="_blank">
-    <img align="center" src="https://w7.pngwing.com/pngs/447/905/png-transparent-twitch-logo-social-social-media-social-media-logos-icon.png" alt="Twitch de MarkelRoman05" height="49px" width="60px" />
+    <img align="center" src="https://www.freeiconspng.com/uploads/transparent-background-twitch-logo-png-16.png" alt="Twitch de MarkelRoman05" height="65px" width="70px" />
   </a>
   <p align="center">
     <h3 align="center">Soy Markel y este es mi repositorio personal de GitHub, donde publico proyectos o pruebas.</h3>
